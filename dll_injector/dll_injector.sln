@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dll_injector", "dll_injector\dll_injector.vcxproj", "{79EB1BF1-62E3-40DB-8BE6-3FE7202B393D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79EB1BF1-62E3-40DB-8BE6-3FE7202B393D}.Debug|x64.ActiveCfg = Debug|x64
+		{79EB1BF1-62E3-40DB-8BE6-3FE7202B393D}.Debug|x64.Build.0 = Debug|x64
+		{79EB1BF1-62E3-40DB-8BE6-3FE7202B393D}.Debug|x86.ActiveCfg = Debug|Win32
+		{79EB1BF1-62E3-40DB-8BE6-3FE7202B393D}.Debug|x86.Build.0 = Debug|Win32
+		{79EB1BF1-62E3-40DB-8BE6-3FE7202B393D}.Release|x64.ActiveCfg = Release|x64
+		{79EB1BF1-62E3-40DB-8BE6-3FE7202B393D}.Release|x64.Build.0 = Release|x64
+		{79EB1BF1-62E3-40DB-8BE6-3FE7202B393D}.Release|x86.ActiveCfg = Release|Win32
+		{79EB1BF1-62E3-40DB-8BE6-3FE7202B393D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AFB5BB1-4F9E-449B-96F8-9B6D767CA9F5}
+	EndGlobalSection
+EndGlobal
